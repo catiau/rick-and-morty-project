@@ -1,0 +1,11 @@
+.cards {
+position: relative;
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 17px;
+    background-color: aqua;
+}
